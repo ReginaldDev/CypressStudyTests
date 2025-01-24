@@ -6,5 +6,7 @@ module.exports = {
     baseUrl: "https://testautomationpractice.blogspot.com/",
     viewportWidth: 1920, 
     viewportHeight: 1080,
+
+    video: true,
   },
 };
