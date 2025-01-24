@@ -9,9 +9,11 @@ Welcome to my projects repository! This space is dedicated to the work I've deve
 ## 🚀 Key Projects  
 - **[Form Validation](https://github.com/ReginaldDev/CypressStudyTests/tree/main/FormValidation/cypress)**: testing HTML forms, adding data and dates.
     - **Directory**: 
-                    /e2e: Test case scripts using Javascript.
-                    /fixtures and /support: Common utility scripts and reusable functions to support testing projects  
-                    /videos: video file from test cases.  
+      /e2e: Test case scripts using Javascript.
+      
+      /fixtures and /support: Common utility scripts and reusable functions to support testing projects.  
+
+      /videos: video file from test cases.  
 
 ## Technologies Used  
 - **Languages**: JavaScript, Typescript, HTML, CSS.  
